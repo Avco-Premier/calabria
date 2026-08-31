@@ -1,0 +1,8 @@
+{
+  "restaurant_name": "Calabria Pizzeria",
+  "public_domain": "https://www.calabriapizzeriabellmore.com",
+  "order_url": "https://calabriapizzeria.direct-ordering.com/order-now",
+  "served_areas": ["Bellmore, NY", "North Bellmore, NY"],
+  "_needs_confirmation": true,
+  "_note": "This file did not exist prior to this run (drafted by Map from CNAME + index.html content). order_url currently points at an internal avcoindustries.com host, which is exposed in user-visible HTML in index.html (hard-constraint violation) -- flagging for Mike/Yon, not modified by Map. served_areas inferred only from copy mentioning Bellmore/North Bellmore, NY; please confirm the full served area list."
+}
